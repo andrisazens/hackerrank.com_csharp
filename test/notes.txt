@@ -1,0 +1,4 @@
+Install C# extension https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp
+Install .NET Core SDK https://aka.ms/dotnet-sdk-2.0.0-win-gs-x64
+type in terminal: dotnet new console
+                  dotnet run
